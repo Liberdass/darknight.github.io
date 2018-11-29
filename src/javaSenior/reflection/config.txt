@@ -1,0 +1,2 @@
+class=javaSenior.Service1
+method=doService1
